@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Mehandi Arts</title>
+        <link rel="icon" href="mehandi.jpg">
+        <link rel="stylesheet" href="style1.css">
+    </head>
+    <body>
+        <div class="head">
+            <h1>Mehandi Arts</h1>
+            <p>An art of Creativity</p>
+        </div>
+        <div class="image">
+            <center>
+                <img src="leg img.jpg">
+                <p>Impressive one!</p>
+            </center>
+        </div>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta odit nihil at adipisci repellat dolores temporibus, commodi fuga aperiam suscipit delectus expedita aliquid, ipsum aspernatur, quas fugit modi soluta doloremque corrupti nesciunt cum voluptatum eveniet omnis! Delectus nobis error voluptate rem, molestiae sunt at nisi quas explicabo labore omnis sequi aliquid debitis sapiente corporis quo reprehenderit. Dolor ipsum corrupti alias? Illum consectetur odio voluptatem laborum, cumque velit blanditiis beatae ab molestias unde nemo rem dolorum fugiat saepe. Praesentium voluptatum hic deleniti aspernatur magni. Dolor fuga perferendis asperiores, necessitatibus ullam ratione similique illum sequi delectus odit commodi atque in laudantium totam fugiat rerum velit eos! Eaque veniam est corporis culpa quo distinctio in. Vel quo fugit asperiores tempora sed eum accusamus. Vitae laudantium corporis sapiente ad voluptas, quas expedita, porro laboriosam dolore quaerat nisi illum quod, beatae veniam inventore magni sit doloremque autem temporibus non culpa iure? Laboriosam nesciunt quam velit!</p>
+        <center>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/zZU19-BIitU?si=dJCYAiJ7cXjqaNkN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </center>
+        <div class="button">
+            <p>"Click here!"</p>
+        </div>
+        <hr>
+        <div class="contact">
+            <h3>Contact:+91 1234567890</h3>
+            <p>Email:abc@gmail.com</p>
+        </div>
+    </body>
+</html>
